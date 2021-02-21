@@ -1,5 +1,5 @@
 import os
-import ConfigParser
+import configparser as ConfigParser
 
 
 class BaseConfig(object):
